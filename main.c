@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <signal.h>
+#include <ctype.h>
 
 #define MAX_CHARS 100  //maximum size of argument string
 #define MAX_ARGS 10 //maximum size of arguments
